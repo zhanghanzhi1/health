@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="button_color_diet">#ffc3cf</color>
+    <color name="button_color_sleep">#b3cbfc</color>
+    <color name="button_color_mental_health">#b6d9ff</color>
+    <color name="button_color_exercise">#fee46f</color>
+    <color name="date_background_normal">#d0dfb8</color>
+    <color name="date_background_today">#e8c7cc</color>
+    <color name="gradient_start_color">#fff9e9</color> <!-- 渐变色起始颜色，这里是浅天蓝 -->
+    <color name="gradient_end_color">#ffffff</color>
+    <color name="personal_card_background">#F5F5F5</color>
+    <color name="data_container_sleep">#b3cbfc</color>
+    <color name="data_container_exercise">#fee46f</color>
+    <color name="data_container_diet">#ffc3cf</color>
+    <color name="data_container_mental_health">#b6d9ff</color>
+    <color name="checkmark_color">#008000</color> <!-- 深绿色 -->
+</resources>

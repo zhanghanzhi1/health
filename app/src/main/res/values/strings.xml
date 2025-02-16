@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">health</string>
+    <string name="diet">Diet</string>
+    <string name="sleep">Sleep</string>
+    <string name="mental_health">Mental</string>
+    <string name="exercise">Sports</string>
+    <string name="home">Home</string>
+    <string name="mine">Mine</string>
+</resources>
