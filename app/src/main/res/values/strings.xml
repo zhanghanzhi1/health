@@ -6,4 +6,6 @@
     <string name="exercise">Sports</string>
     <string name="home">Home</string>
     <string name="mine">Mine</string>
+    <string name="mental_sleep"><![CDATA[Mental&sleep]]></string>
+    <string name="sport_diet"><![CDATA[Sport&Diet]]></string>
 </resources>

@@ -12,13 +12,15 @@
     <color name="button_color_mental_health">#b6d9ff</color>
     <color name="button_color_exercise">#fee46f</color>
     <color name="date_background_normal">#d0dfb8</color>
-    <color name="date_background_today">#e8c7cc</color>
-    <color name="gradient_start_color">#fff9e9</color> <!-- 渐变色起始颜色，这里是浅天蓝 -->
+    <color name="date_background_today">#b6dee5</color>
+    <color name="gradient_start_color">#fff9e9</color>
     <color name="gradient_end_color">#ffffff</color>
     <color name="personal_card_background">#F5F5F5</color>
     <color name="data_container_sleep">#b3cbfc</color>
     <color name="data_container_exercise">#fee46f</color>
     <color name="data_container_diet">#ffc3cf</color>
     <color name="data_container_mental_health">#b6d9ff</color>
-    <color name="checkmark_color">#008000</color> <!-- 深绿色 -->
+    <color name="checkmark_color">#008000</color>
+    <color name="combined_mental_sleep">#6A5ACD</color>
+    <color name="combined_sport_diet">#20B2AA</color>
 </resources>
